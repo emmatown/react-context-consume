@@ -1,6 +1,6 @@
 # react-context-consume
 
-> A handy way to consume values from React's createContext API
+> An easy way to consume values from React's createContext API
 
 # Install
 

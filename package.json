@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
+  "description": "An easy way to consume values from React's createContext API",
   "license": "MIT",
   "files": [
     "src",
