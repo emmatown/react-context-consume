@@ -25,6 +25,10 @@ let Comp = consume((props, value, ref) => {
 render(<Comp />); // will render "value"
 ```
 
+# Demo
+
+https://codesandbox.io/s/jl2oko45ov
+
 # License
 
 MIT
