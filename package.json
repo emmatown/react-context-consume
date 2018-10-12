@@ -1,6 +1,6 @@
 {
   "name": "react-context-consume",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
   "description": "An easy way to consume values from React's createContext API",
