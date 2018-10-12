@@ -1,7 +1,7 @@
 // @flow
 import * as React from "react";
 
-export let createConsume = <Value>(Context: React$Context<Value>) => {
+export let createConsume = <Value: any>(Context: React$Context<Value>) => {
   let Consumer = Context.Consumer;
   return <Props>(
     render: (props: Props, value: Value, ref: React.Ref<*>) => React.Node
